@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "rM+VZ4EsrZD2JufBVSJF5zbF3Nh3TSKT00W2HEzmgM0iPlh4ioYeQxsGpvIiIOLHUcHo8lpUBSkCH9W3/yb1hQ==",
+  "success": true,
+  "projectFilePath": "/Users/Jenny/remix-feat-ai/Core/Remix.Core.Api/Remix.Core.Api.csproj",
+  "expectedPackageFiles": [
+    "/Users/Jenny/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/Jenny/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/Jenny/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "/Users/Jenny/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "/Users/Jenny/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "/Users/Jenny/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
